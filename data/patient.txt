@@ -1,0 +1,23 @@
+PatientID: 123456
+Name: John Doe
+Age: 45
+Gender: Male
+Symptoms: Fever, cough, sore throat
+MedicalHistory: Hypertension, no allergies
+Medications: Lisinopril 10mg daily
+
+PatientID: 234567
+Name: Sarah Smith
+Age: 30
+Gender: Female
+Symptoms: Fatigue, headache, body aches
+MedicalHistory: Asthma (controlled), no allergies
+Medications: Albuterol inhaler as needed
+
+PatientID: 345678
+Name: Michael Johnson
+Age: 55
+Gender: Male
+Symptoms: Chest pain, shortness of breath, nausea
+MedicalHistory: History of heart disease, no allergies
+Medications: Aspirin 81mg daily, Metoprolol 25mg twice daily
