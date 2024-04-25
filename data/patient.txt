@@ -1,23 +1,23 @@
-PatientID: 123456
+Patient ID: 001
 Name: John Doe
+Age: 34
+Medical History: Diabetes, Hypertension
+Current Medication: Metformin, Atenolol
+Last Visit: 2023-04-15
+Notes: Follow-up in 3 months for blood work.
+
+Patient ID: 002
+Name: Jane Smith
+Age: 28
+Medical History: None
+Current Medication: None
+Last Visit: 2023-03-22
+Notes: Annual check-up completed, no issues reported.
+
+Patient ID: 003
+Name: Alice Johnson
 Age: 45
-Gender: Male
-Symptoms: Fever, cough, sore throat
-MedicalHistory: Hypertension, no allergies
-Medications: Lisinopril 10mg daily
-
-PatientID: 234567
-Name: Sarah Smith
-Age: 30
-Gender: Female
-Symptoms: Fatigue, headache, body aches
-MedicalHistory: Asthma (controlled), no allergies
-Medications: Albuterol inhaler as needed
-
-PatientID: 345678
-Name: Michael Johnson
-Age: 55
-Gender: Male
-Symptoms: Chest pain, shortness of breath, nausea
-MedicalHistory: History of heart disease, no allergies
-Medications: Aspirin 81mg daily, Metoprolol 25mg twice daily
+Medical History: Asthma
+Current Medication: Ventolin
+Last Visit: 2023-02-10
+Notes: Asthma stable, continue current treatment, review in 6 months.
